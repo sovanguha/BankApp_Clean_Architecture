@@ -1,0 +1,9 @@
+D:\BankApplication\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BankApplication\Infrastructure\bin\Debug\Infrastructure.dll
+D:\BankApplication\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\BankApplication\Infrastructure\bin\Debug\Domain.dll
+D:\BankApplication\Infrastructure\bin\Debug\Domain.pdb
+D:\BankApplication\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+D:\BankApplication\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+D:\BankApplication\Infrastructure\obj\Debug\Infrastructure.dll
+D:\BankApplication\Infrastructure\obj\Debug\Infrastructure.pdb
